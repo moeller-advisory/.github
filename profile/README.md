@@ -1,35 +1,34 @@
-## Moeller Advisory
+## Hi, ich bin Malte 👋
 
-**IT-Beratung & Software-Architektur** von Malte Möller, Wiesbaden, bundesweit remote.
-Schwerpunkt: **Agentisches Coding und KI-Einführung**, anbieterunabhängig.
+**Freiberuflicher KI-Berater** aus Wiesbaden, bundesweit remote.
+Agentisches Coding und KI-Einführung, anbieterunabhängig.
 
 Ich arbeite täglich mit ChatGPT/Codex, Claude Code und Hermes Agent, dazu praktisch mit europäischen und lokalen Modellen (z. B. Mistral),
 und helfe Unternehmen, KI praktisch einzuführen: nach Aufgabe, Datenschutz und Budget, nicht nach Hersteller.
 
 Mein Anspruch: **KI nicht nur verstehen, sondern in echte Wertschöpfung übersetzen.**
 
-🌐 [moeller-advisory.com](https://www.moeller-advisory.com) · [LinkedIn](https://www.linkedin.com/in/malte-m%C3%B6ller-bpm-intelligent-automation/) · [Xing](https://www.xing.com/profile/Malte_Moeller11)
+🌐 [moeller-advisory.com](https://www.moeller-advisory.com) · [LinkedIn](https://www.linkedin.com/in/malte-möller-bpm-intelligent-automation)
 
 ## Was ich mache 🚀
-
-- **Agentisches Coding einführen:** Arbeitsweise, Qualitätssicherung (Tests, Reviews), Leitplanken, Coaching on the Job
+- **Agentisches Coding einführen:** Arbeitsweise, Qualitätssicherung (Tests, Reviews), Leitplanken
 - **KI-Einführung begleiten:** Bedarf, Auswahl, Pilot und Einführung, auch mit lokalen Modellen
-- **KI-Systeme konzipieren:** Architektur, Schnittstellen, Dokumentation (ADR, arc42)
-- **Prozesse KI-fähig machen:** Prozessaufnahme, BPM, Automatisierung (RPA, Intelligent Automation), Systemintegration
+- **KI-Systeme konzipieren:** Architektur, Schnittstellen, Dokumentation
+- **Prozesse KI-fähig machen:** BPM, RPA, Intelligent Automation, Systemintegration
 
 ## Zertifikate 🎓
 
-- AI Fluency for Small Businesses, Anthropic (2026)
-- AI Fluency Framework & Foundations, Anthropic (2026)
-- Software Security für Product Owner & Führungskräfte, Fraunhofer IEM (2024)
-- Certified Cognitive AI Practitioner, WIANCO OTT Robotics (2024)
-- Robocorp Automation Developer Level I–III, Robocorp (2022/2023)
-- Pega Certified Business Architect 8.5, Pegasystems (2021)
-- Schulung „Gestern Kollege – heute Vorgesetzter“, Cegos Integrata (2021)
-- Professional Scrum Master I (PSM I), Scrum.org (2020)
-- Professional Scrum Product Owner I (PSPO I), Scrum.org (2020)
-
-Weiterbildung: DSGVO-Grundlagenkurs, Oliver Krause (DSBOK), 2023 (Teilnahmebestätigung)
+![AI Fluency Small Businesses](https://img.shields.io/badge/AI%20Fluency%20Small%20Businesses-Anthropic-orange)
+![AI Fluency Framework & Foundations](https://img.shields.io/badge/AI%20Fluency%20Framework%20%26%20Foundations-Anthropic-blue)
+![Cognitive AI Practitioner](https://img.shields.io/badge/Cognitive%20AI%20Practitioner-WIANCO%20OTT%20Robotics-green)
+![Software Security PO & Führungskräfte](https://img.shields.io/badge/Software%20Security-Fraunhofer%20IEM-lightgrey)
+![Robocorp L1](https://img.shields.io/badge/Robocorp%20Level%20I-brightgreen)
+![Robocorp L2](https://img.shields.io/badge/Robocorp%20Level%20II-green)
+![Robocorp L3](https://img.shields.io/badge/Robocorp%20Level%20III-darkgreen)
+![Cegos Führungskräftetraining](https://img.shields.io/badge/Führungskräftetraining-Cegos%20Integrata-yellow)
+![Pega CBA 8.5](https://img.shields.io/badge/Pega%20CBA%208.5-Pegasystems-blue)
+![PSM I](https://img.shields.io/badge/PSM%20I-Scrum.org-blue)
+![PSPO I](https://img.shields.io/badge/PSPO%20I-Scrum.org-blue)
 
 ## Tech Stack ⚙️
 
@@ -45,6 +44,7 @@ Weiterbildung: DSGVO-Grundlagenkurs, Oliver Krause (DSBOK), 2023 (Teilnahmebest�
 ![Replicate](https://img.shields.io/badge/Replicate-AI%20Inference-blue)
 ![LangChain](https://img.shields.io/badge/LangChain-AI%20Framework-blue)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-Retrieval-orange)
+
 
 ### LLMs & Anbieter
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-orange)
@@ -90,5 +90,5 @@ Weiterbildung: DSGVO-Grundlagenkurs, Oliver Krause (DSBOK), 2023 (Teilnahmebest�
 ![LeanIX](https://img.shields.io/badge/LeanIX-EA-lightblue)
 
 ## Kontakt 📬
-
-Anfragen am besten über das Kontaktformular auf [moeller-advisory.com](https://www.moeller-advisory.com/#kontakt).
+✉️ [malte@moeller-advisory.com](mailto:malte@moeller-advisory.com)
+🌐 [moeller-advisory.com](https://www.moeller-advisory.com)
